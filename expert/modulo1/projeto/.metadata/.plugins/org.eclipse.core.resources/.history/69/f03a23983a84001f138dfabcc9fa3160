@@ -1,0 +1,5 @@
+package com.joaoldantasn.dscatalog.resource;
+
+public class CategoryResource {
+
+}
