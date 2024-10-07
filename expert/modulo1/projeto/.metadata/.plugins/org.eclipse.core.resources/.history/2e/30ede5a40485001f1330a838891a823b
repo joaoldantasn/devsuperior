@@ -1,0 +1,5 @@
+package com.joaoldantasn.dscatalog.dtos;
+
+public class CategoryDTO {
+
+}
