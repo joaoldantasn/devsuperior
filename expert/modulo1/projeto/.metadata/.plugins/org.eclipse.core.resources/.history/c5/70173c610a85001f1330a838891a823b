@@ -1,6 +1,0 @@
-package com.joaoldantasn.dscatalog.services.exceptions;
-
-@SuppressWarnings("serial")
-public class EntityNotFoundException extends RuntimeException{
-
-}

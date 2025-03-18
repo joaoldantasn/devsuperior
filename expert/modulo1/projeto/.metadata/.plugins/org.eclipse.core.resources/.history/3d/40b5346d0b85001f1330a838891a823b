@@ -1,5 +1,0 @@
-package com.joaoldantasn.dscatalog.resources.exceptions;
-
-public class ResourceExceptionHandler {
-
-}
