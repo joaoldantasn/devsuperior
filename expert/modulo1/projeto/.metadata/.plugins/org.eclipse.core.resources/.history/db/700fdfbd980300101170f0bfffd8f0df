@@ -1,0 +1,14 @@
+package com.joaoldantasn.dscatalog.dtos;
+
+import java.time.Instant;
+
+public class ProductDTO {
+
+	private Long id;
+	private String name;
+	private String description;
+	private Double price;
+	private String imgUrl;
+	private Instant date;
+	
+}
